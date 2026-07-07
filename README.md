@@ -3,7 +3,7 @@
 [(Descripcion)](https://github.com/javierbj20141/Dashboard_project_Data-analytics/blob/main/Excel.PNG)
 
 
-**Bienvenidos a mi proyecto de dashboard en Excel de "The Power"! 💪📊✨**
+**Bienvenidos a mi proyecto de dashboard en Excel, que analiza las condiciones y carrera de las diferentes posiciones que existen en el mundo de los datos 💪📊✨**
 
 El mundo de los datos es un mundo en constante evolución. Actualmente, las empresas tienen que se capaces de poder gestionar y sacar partido a toda esa información. No obstante, en la actualidad hay muchisimas posiciones relacionadas con este campo, todas ellas centradas en puntos diferentes dentro de la cadena de valor del dato, con roles totalmente distintos. El objetivo de de este análisis es identificar que elementos hacen que una posición relaccionada con el ámbito del dato esté mejor pagada que otra. Por ello, se tendrán en cuenta diferentes factores como años de experiencia, localización, tamaño, tipo de contrato, etc.
 
